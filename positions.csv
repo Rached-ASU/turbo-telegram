@@ -1,0 +1,7 @@
+section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
+education,TRUE,Master degree in Data anlytics,Arizona State University,"Phoenix, Arizona\",2020,2022,Program Evaluation and Data anlytics,NA,NA
+education,TRUE,"B.S., Business Adminestration",University of Tunis,"Tunis,Tunisia",2016,2020,Thesis: BI tool with tableau,NA,NA
+research_positions,TRUE,Graduate Research Assistant,BIAT labs,"Tunis,Tunisia",2016,2020,Primarily working with large EHR and Biobank datasets.,NA,NA
+industry_positions,TRUE,Data Analyst,Harvest  Group,"New York, New York",2018,NOW,Reporting and visulisations,NA,NA
+academic_articles,FALSE,Data Analytics and Big data,Under-Review (copy available upon request.),NA,NA,2019,Bayesian network analysis used to find novel subgroups of patients with Myelodysplastic Syndromes (MDS).,NA,NA
+academic_articles,FALSE,Daily life with Data,Under-Review (copy available upon request.),NA,NA,2019,Bayesian network analysis used to find robust novel subgroups of patients with given genetic mutations.,NA,NA
